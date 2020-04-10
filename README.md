@@ -1,6 +1,6 @@
 # AI YouTube Channels
 An incomplete list of AI YouTube Channels I know of.  
-Listed by topic and alphabetical order. Curated by video quality, activity, and reputability.   
+Listed by topic and alphabetical order. Curated by video quality, activity, reputability, and interpretability.   
 If you have any other channels to add, feel free to add a pull request!
 
 ## Research Groups
@@ -18,7 +18,7 @@ If you have any other channels to add, feel free to add a pull request!
 
 - [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
 - [Henry AI Labs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw)
-- [ML Papers Explained - A.I. Socratic Circles - AISC](https://www.youtube.com/channel/UCfk3pS8cCPxOgoleriIufyg)
+- [ML Papers Explained - AISC](https://www.youtube.com/channel/UCfk3pS8cCPxOgoleriIufyg)
 - [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
 - [Yannic Kilcher](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew)
 
