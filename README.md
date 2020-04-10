@@ -22,6 +22,18 @@ If you have any other channels to add, feel free to add a pull request!
 - [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
 - [Yannic Kilcher](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew)
 
+## Podcasts and Recordings
+
+- [Preserve Knowledge](https://www.youtube.com/user/Charleshche/)
+- [Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA)
+
+## Lectures
+
+- [Alexander Amini](https://www.youtube.com/user/Zan560)
+- [Andrej Karpathy](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
+- [Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)
+- [Pieter Abbeel](https://www.youtube.com/channel/UC88M-XNc4BlzJVJvOyiHZDQ)
+
 ## Tutorials
 
 - [Jeff Heaton](https://www.youtube.com/user/HeatonResearch)
@@ -37,14 +49,3 @@ If you have any other channels to add, feel free to add a pull request!
 - [CodeParade](https://www.youtube.com/channel/UCrv269YwJzuZL3dH5PCgxUw/videos)
 - [Jabrils](https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg)
 
-## Podcasts and Recordings
-
-- [Preserve Knowledge](https://www.youtube.com/user/Charleshche/)
-- [Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA)
-
-## Lectures
-
-- [Alexander Amini](https://www.youtube.com/user/Zan560)
-- [Andrej Karpathy](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw)
-- [Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)
-- [Pieter Abbeel](https://www.youtube.com/channel/UC88M-XNc4BlzJVJvOyiHZDQ)
